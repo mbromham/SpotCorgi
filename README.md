@@ -1,13 +1,13 @@
 # SpotCorgi
 
-Please ignore comments about a major redesign. This is still being considered and may not go ahead. Hence, this code IS still current.
-
 Development/testing code for 3D printed robot dog SpotCorgi at https://www.thingiverse.com/thing:3900070
 
-This is the version used in the video "SpotCorgi Says Hello" on the channel below.
+V.3 is the version used in the video "SpotCorgi Says Hello" on the channel below.
+
+V.6.1 is a much revised version for a new IR remote control including functions for 35 buttons plus new lower leg move algorithm to keep the body height constant during leg moves.
 
 Servo numbers used in the code are Lower/Upper Leg: FrontRight 0/4, FrontLeft 1/5, RearLeft 2/6, RearRight 3/7.
 
-Sorry, too much monitoring code and too few explanatory comments. Will be updated. 
+Sorry, still too much monitoring code and still too few explanatory comments. Will be updated, again. 
 
 See project history and progress at: https://www.youtube.com/user/mbromham
